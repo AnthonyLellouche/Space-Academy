@@ -1,0 +1,69 @@
+p {
+    font-family: 'Source Sans Pro', sans-serif;}
+
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-style: initial;
+
+}
+
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left: 30px;
+}
+
+.equipe .block .citation {
+    font-style: italic;
+}
+.equipe .block .identifiant {
+    text-decoration: underline;
+}
+
+#monElement .enTete {
+    padding: 60px 40px 60px 30px;
+    border: 5px solid #1771CF;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    color:#1771CF
+    }
+
+#monElement img {
+    float: left;
+    margin: 10px
+}
+
+.equipe .block img {
+    width: 160px;
+    height: 160px ;
+    float: left     
+}
+
+.equipe .block {
+    border:7px solid #6AADF2;
+    display: inline-block;
+    padding: 10px 3px 10px 3px;
+    margin:5px 20px 5px 5px;
+    background-color:#6AADF2;
+    color: white; 
+}
+
+.astro {
+    margin-left: 20px;
+    color:#1771CF
+}
+
+.valeurs{
+    
+    color:#1771CF
+}
+
+.valeur .loremIpsum {
+    font-size: 15px;
+}
+.valeur {
+    margin-left: 20px;
+}
+
